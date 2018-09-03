@@ -31,6 +31,7 @@ header .row{
     border-top-right-radius: 4px;
     display: flex;
     align-items: center;
+    margin-top: 10px;
 }
 
 header, .col-sm-8 {
