@@ -70,6 +70,14 @@ section .row {
     align-items: center;
 }
 
+section a{
+    color: #66111c;
+}
+
+section a:hover{
+    color: #555555;
+}
+
 /* footer */
 
 footer .row{
