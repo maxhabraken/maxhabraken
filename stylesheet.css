@@ -1,5 +1,9 @@
 /* header */
 
+body .alles{
+    background-color: aqua;
+}
+
 body header {
     font-family: "Verdana", sans-serif;
 }
@@ -23,6 +27,7 @@ header .row{
 header, .col-sm-8 {
     color: #555555;
     font-weight: bold;
+    font-family: "Arial";
 }
 
 /* buttons */
